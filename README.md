@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm [Amit Singh]
+## Hi there! 👋 I'm Amit Singh
 
 🚀 Passionate Full-Stack Developer | Backend Enthusiast | Building Scalable Systems
 
