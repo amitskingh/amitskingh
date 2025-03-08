@@ -1,8 +1,6 @@
 ## Hi there! 👋 I'm [Amit Singh]
 
 🚀 Passionate Full-Stack Developer | Backend Enthusiast | Building Scalable Systems
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-
 
 ### 🛠 Tech Stack:
 - **Languages:** TypeScript, JavaScript  
